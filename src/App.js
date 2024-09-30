@@ -35,7 +35,7 @@ const App = () => {
             5,
             "0"
           )}.jpg`)}
-          alt={`image`}
+          alt={currentImage}
           style={{
             position: "sticky",
             top: 0,
